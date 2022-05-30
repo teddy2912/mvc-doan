@@ -9,27 +9,8 @@
 
     <!-- Bootstrap CSS v5.0.2 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="./public/css/pay.css">
 
-    <style>
-        .content .thongtin h4 {
-            color: rgb(50, 162, 248);
-        }
-
-        .content .donhang .thongtin1 input {
-            padding: 5px;
-            width: 250px;
-            margin-top: 9px;
-        }
-
-        .content .donhang .quayve a {
-            text-decoration: none;
-        }
-
-        .content .vanchuyen {
-            margin-top: 40px;
-        }
-    </style>
-        <link rel="stylesheet" href="./public/css/pay.css">
 
 </head>
 

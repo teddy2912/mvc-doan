@@ -25,3 +25,25 @@ body {
     height: 596px;
 }
 
+.content .thongtin h4 {
+    color: rgb(50, 162, 248);
+}
+.content  .thongtin input {
+    padding: 8px;
+    width: 370px;
+    margin-top: 9px;
+}
+
+.content .donhang .thongtin1 input {
+    padding: 5px;
+    width: 250px;
+    margin-top: 9px;
+}
+
+.content .donhang .quayve a {
+    text-decoration: none;
+}
+
+.content .vanchuyen {
+    margin-top: 40px;
+}

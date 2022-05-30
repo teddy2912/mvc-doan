@@ -25,7 +25,7 @@ class Auth extends Database{
             unset($_SESSION['user']);
             $_SESSION['user'] = $user;
         }else{
-            redirect(url_pattern('loginController', 'login'));
+            redirect(url_pattern('authController', 'login'));
         }
     }
 
