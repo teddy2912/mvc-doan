@@ -1,7 +1,13 @@
 <?php
+require_once './Controller/Auth.php';
+
 class Controller {
     public function __construct() {
-
+        $auth = new Auth();
+        $user = $auth->user();
+        if($user == NULL || $user['role'] != 'admin'){
+            redirect(url_pattern('homeController', 'login'));
+        }
     }
 
     public function invoke() {

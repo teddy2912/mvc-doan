@@ -71,14 +71,11 @@ class CategoryController {
                 'description' => $_POST['description']
             )
         );
-
         redirect(admin_url_pattern('categoryController', 'index'));
     }
-
     private function deletePage(){
         if(!isset($_GET['id'])) die();
         $this->categoryModel->delete($_GET['id']);
-
         redirect(admin_url_pattern('categoryController', 'index'));
     }
 }
