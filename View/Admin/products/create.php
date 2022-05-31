@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
     <meta charset="utf-8">
@@ -12,9 +13,7 @@
 
     <!-- Custom fonts for this template-->
     <link href="./public/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <link
-        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <!-- Custom styles for this template-->
     <link href="./public/Admin/css/sb-admin-2.min.css" rel="stylesheet">
 </head>
@@ -33,7 +32,6 @@
 
             <!-- Main Content -->
             <div id="content">
-
                 <!-- Topbar -->
                 <?php include_once './View/Admin/inc/topbar.php' ?>
                 <!-- End of Topbar -->
@@ -43,28 +41,29 @@
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
                         <h1 class="h3 mb-0 text-gray-800">Admin Panel</h1>
-                        <a href="<?php echo admin_url_pattern('productController', 'create'); ?>" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
-                                class="fas fa-download fa-sm text-white-50"></i>Add Product</a>
+                        <a href="<?php echo admin_url_pattern('productController', 'create'); ?>" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i>Add Product</a>
                     </div>
                     <!-- Content Row -->
                     <form method="post">
+                        <input type="hidden" name="controller" value="productController">
+                        <input type="hidden" name="page" value="store">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Category product name:</label>
+                            <label for="exampleInputEmail1">Product name:</label>
                             <input name="name" type="text" class="form-control" id="cat" aria-describedby="" placeholder="Enter name">
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Category price:</label>
+                            <label for="exampleInputPassword1">Product price:</label>
                             <input name="price" type="number" class="form-control" id="cat" aria-describedby="" placeholder="Enter Price">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Category quantity:</label>
+                            <label for="exampleInputPassword1">Product quantity:</label>
                             <input name="quantity" type="number" class="form-control" id="cat" aria-describedby="" placeholder="Enter quantity">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Category image:</label>
+                            <label for="exampleInputPassword1">Product image:</label>
                             <input name="image" type="text" class="form-control" id="cat" aria-describedby="" placeholder="Enter link image">
-                        </div>                
+                        </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div>
@@ -95,8 +94,7 @@
     </a>
 
     <!-- Logout Modal-->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">

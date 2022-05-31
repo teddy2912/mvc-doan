@@ -44,6 +44,7 @@ class ProductController {
     }
 
     private function createPage(){
+
         require_once './View/Admin/products/create.php';
     }
 
@@ -53,15 +54,14 @@ class ProductController {
                 'name' => $_POST['name'],
                 'price' => $_POST['price'],
                 'quantity' => $_POST['quantity'],
-                'images' => $_POST['images']
+                'image' => $_POST['image']
             )
         );
-
         redirect(admin_url_pattern('productController', 'index'));
     }
 
     private function editPage(){
-        $category = $this->productModel->find($_GET['id']);
+        $product = $this->productModel->find($_GET['id']);
         require_once './View/Admin/products/edit.php';
     }
 
@@ -72,17 +72,15 @@ class ProductController {
                 'name' => $_POST['name'],
                 'price' => $_POST['price'],
                 'quantity' => $_POST['quantity'],
-                'images' => $_POST['images']
+                'image' => $_POST['image'],
             )
         );
-
         redirect(admin_url_pattern('productController', 'index'));
     }
 
     private function deletePage(){
         if(!isset($_GET['id'])) die();
         $this->productModel->delete($_GET['id']);
-
         redirect(admin_url_pattern('productController', 'index'));
     }
 }

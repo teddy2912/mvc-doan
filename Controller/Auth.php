@@ -24,8 +24,10 @@ class Auth extends Database{
         if($user) {
             unset($_SESSION['user']);
             $_SESSION['user'] = $user;
+            
+            if($user['role'] == 'admin') redirect(admin_url_pattern('categoryController', 'index'));
         }else{
-            redirect(url_pattern('loginController', 'login'));
+            redirect(url_pattern('authController', 'login'));
         }
     }
 
