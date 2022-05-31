@@ -40,12 +40,12 @@
                     <div class="logo col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
                         <div class="people">
                             <i class="logo fa fa-users" aria-hidden="true"></i><br>
-                    
+                                            
                             <a href="<?php echo url_pattern('homeController', 'login'); ?>">Đăng nhập</a> / <a href="<?php echo url_pattern('homeController', 'registration'); ?>"> Đăng Ký</a>
-                            
+ 
                         </div>
 
-                    </div>
+                    </div> 
                     <div class="logo col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-1">
                         <div class="people">
                             <i class="giohang fa fa-shopping-cart" aria-hidden="true"></i><br>

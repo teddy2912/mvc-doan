@@ -57,8 +57,7 @@ class ProductController {
                 'image' => $_POST['image']
             )
         );
-
-        redirect(admin_url_pattern('ProductController', 'index'));
+        redirect(admin_url_pattern('productController', 'index'));
     }
 
     private function editPage(){
