@@ -42,5 +42,50 @@ class ProductModel extends Database {
 
         return $products;
     }
+    public function delete($id){
+        $sql = "delete from products where id = " . $id;
+        $this->pdo->exec($sql);
+    }
+
+    public function create($attr = array()) {
+        $name = $attr['name'];
+        $price = $attr['price'];
+        $quantity = $attr['quantity'];
+        $image = $attr['image'];
+        $sql = "insert into products(name, price, quantity, image) values('$name','$price','$quantity','$image')";
+
+        $this->pdo->exec($sql);
+    }
+
+    public function update($attr = array()) {
+        $name = $attr['name'];
+        $price = $attr['price'];
+        $quantity = $attr['quantity'];
+        $image = $attr['image'];
+        $sql ="UPDATE products set name= '$name', price= '$price', quantity= '$quantity', image='$image'  where id=" . $attr['id'];
+        var_dump($sql);
+        
+        $this->pdo->exec($sql);
+    }
+    public function findByName($name){
+        $sql = "select * from products where name like '%$name%'";
+        $query = $this->pdo->prepare($sql);
+        $query->execute();
+    
+        $products = array();
+    
+        foreach($query as $product){
+            $products[] = new Product(
+                $product['id'],
+                $product['name'],
+                $product['price'],
+                $product['quantity'],
+                $product['image']
+            );
+        }
+    
+        return $products;
+    }
+    
     
 }

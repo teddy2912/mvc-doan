@@ -68,7 +68,6 @@ class ProductController {
     private function updatePage(){
         $this->productModel->update(
             array(
-                'id' => $_POST['id'],
                 'name' => $_POST['name'],
                 'price' => $_POST['price'],
                 'quantity' => $_POST['quantity'],
