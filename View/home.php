@@ -109,13 +109,13 @@
                                 <div class="noibat mt-3 mb-3">
                                     <div class="row g-0">
                                         <div class="col-md-4 card">
-                                            <img src="https://bizweb.dktcdn.net/thumb/small/100/091/132/products/5-min-a5bb63b5-5f5e-4109-ae48-b6f4e3c5a3aa.jpg?v=1468202641487" class="img-fluid rounded-start" alt="...">
+                                            <img src="https://bizweb.dktcdn.net/thumb/small/100/091/132/products/3-min-2aeb1bce-2365-43fc-ad76-752f82aafd51.jpg?v=1468202970950" alt="...">
                                         </div>
                                         <div class="col-md-8">
                                             <div class="card-body">
-                                                <p class="card-text"><a href="">Giày da Converse cao su</a></p>
-                                                <p class="card-text"><small class="text-muted"><b>1.200.000đ</b>
-                                                        <del>1.400.000đ</del></small></p>
+                                                <p class="card-text"><a href="">Giày vải Converse 3</a></p>
+                                                <p class="card-text"><small class="text-muted"><b>700.000đ</b>
+                                                        <del>800.000đ</del></small></p>
                                             </div>
                                         </div>
                                     </div>
@@ -123,13 +123,13 @@
                                 <div class="noibat mt-3 mb-3">
                                     <div class="row g-0">
                                         <div class="col-md-4 card">
-                                            <img src="https://bizweb.dktcdn.net/thumb/small/100/091/132/products/5-min-a5bb63b5-5f5e-4109-ae48-b6f4e3c5a3aa.jpg?v=1468202641487" class="img-fluid rounded-start" alt="...">
+                                            <img src="https://bizweb.dktcdn.net/thumb/small/100/091/132/products/1-min.jpg?v=1468203233277" alt="...">
                                         </div>
                                         <div class="col-md-8">
                                             <div class="card-body">
-                                                <p class="card-text"><a href="">Giày da Converse cao su</a></p>
-                                                <p class="card-text"><small class="text-muted"><b>1.200.000đ</b>
-                                                        <del>1.400.000đ</del></small></p>
+                                                <p class="card-text"><a href="">Giày da Converse cao cấp</a></p>
+                                                <p class="card-text"><small class="text-muted"><b>600.000đ</b>
+                                                        <del>450.000đ</del></small></p>
                                             </div>
                                         </div>
                                     </div>
@@ -194,11 +194,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/5-min-c802784a-1909-4b6f-8736-23c29995b428.jpg?v=1468202743280">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày thể thao Canvas 4</a>
+                                                <b class="topright"> -33% </b>
+                                                <p><b class="giasp">600.000đ </b><small><del>900.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -208,11 +208,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/2-min-0c6d3628-e49d-4b70-9df3-29017047ef06.jpg?v=1468202970950">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 4</a>
+                                                <b class="topright"> -12% </b>
+                                                <p><b class="giasp">700.000đ </b><small><del>800.00đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -222,11 +222,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/6-min-0a7e5bbe-5421-4d12-8018-10efd79d20aa.jpg?v=1468203150347">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày thể thao converse 2</a>
+                                                <b class="topright"> -16% </b>
+                                                <p><b class="giasp">670.000đ </b><small><del>800.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -272,11 +272,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/13-min.jpg?v=1468201120747">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse start</a>
+                                                <b class="topright"> -29% </b>
+                                                <p><b class="giasp">400.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -286,11 +286,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/15-min-4bb14283-a8a1-43b4-a2b9-478641035770.jpg?v=1468200566187">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 10</a>
+                                                <b class="topright"> -47% </b>
+                                                <p><b class="giasp">500.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -300,11 +300,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/6-min-0a7e5bbe-5421-4d12-8018-10efd79d20aa.jpg?v=1468203150347">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 2</a>
+                                                <b class="topright"> -16% </b>
+                                                <p><b class="giasp">670.000đ </b><small><del>900.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -314,11 +314,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/15-min-4bb14283-a8a1-43b4-a2b9-478641035770.jpg?v=1468200566187">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 10</a>
+                                                <b class="topright"> -47% </b>
+                                                <p><b class="giasp">500.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -328,11 +328,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/6-min-0a7e5bbe-5421-4d12-8018-10efd79d20aa.jpg?v=1468203150347">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 2</a>
+                                                <b class="topright"> -16% </b>
+                                                <p><b class="giasp">670.000đ </b><small><del>900.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -400,11 +400,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/13-min.jpg?v=1468201120747">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse start</a>
+                                                <b class="topright"> -29% </b>
+                                                <p><b class="giasp">400.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -414,11 +414,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/15-min-4bb14283-a8a1-43b4-a2b9-478641035770.jpg?v=1468200566187">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 10</a>
+                                                <b class="topright"> -47% </b>
+                                                <p><b class="giasp">500.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -428,11 +428,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/6-min-0a7e5bbe-5421-4d12-8018-10efd79d20aa.jpg?v=1468203150347">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 2</a>
+                                                <b class="topright"> -16% </b>
+                                                <p><b class="giasp">670.000đ </b><small><del>900.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -442,11 +442,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/15-min-4bb14283-a8a1-43b4-a2b9-478641035770.jpg?v=1468200566187">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 10</a>
+                                                <b class="topright"> -47% </b>
+                                                <p><b class="giasp">500.000đ </b><small><del>940.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>
@@ -456,11 +456,11 @@
                                     <div class="responsive">
                                         <div class="card gallery">
                                             <a target="_blank" href="#">
-                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/9-min-0f7e3257-9fa9-4aab-8955-0f7701b42ead.jpg?v=1468202641487">
+                                                <img src="https://bizweb.dktcdn.net/thumb/large/100/091/132/products/6-min-0a7e5bbe-5421-4d12-8018-10efd79d20aa.jpg?v=1468203150347">
                                             </a>
-                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse cao cấp</a>
-                                                <b class="topright"> -14% </b>
-                                                <p><b class="giasp">1.200.000đ </b><small><del>1.400.000đ</del></small>
+                                            <div class="desc"> <a href="#" class="mb-1">Giày da converse 2</a>
+                                                <b class="topright"> -16% </b>
+                                                <p><b class="giasp">670.000đ </b><small><del>900.000đ</del></small>
                                                 </p>
                                             </div>
                                         </div>

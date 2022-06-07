@@ -112,7 +112,7 @@
                         </div>
                         <div class="col-md-7 quayve mt-1">
                             <a href="<?php echo url_pattern('homeController', 'cart') ?>">
-                                < Quay về trang chủ</a>
+                                < Quay về giỏ hàng</a>
                         </div>
                         <div class="col-md-5 btn-group">
                             <a href="#" class="btn btn-primary active" aria-current="page">ĐẶT HÀNG</a>

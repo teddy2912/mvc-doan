@@ -24,7 +24,7 @@ function xoa()
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style>
         .cart_navigation button{
-            background: #fff;
+            background: rgb(234, 148, 148);
         }
     </style>
     <link rel="stylesheet" href="./public/css/style.css">
@@ -64,7 +64,8 @@ function xoa()
                         </tr>
                     </thead>
                     <tbody>
-                        <?php foreach ($productList as $product) { ?>
+                        <?php foreach ($productList as $product) { 
+                            ?>
                             <tr>
                                 <td>
                                     <img style="width: 100px; height: 100px;" src="<?php echo $product['image']; ?>" alt="">
@@ -91,7 +92,7 @@ function xoa()
                     <div class="row">
                         <div class="col-md-9">
                             <div class="btn-group" role="group" aria-label="Basic outlined example">
-                            <a href=""><button type="button" class="btn btn-outline-Danger">Xoá toàn bộ giỏ hàng</button></a>
+                            <a href="cart.php?delcart=1"><button type="button" class="btn btn-outline-Danger">Xoá toàn bộ giỏ hàng</button></a>
                             </div>
                         </div>
                         <div class="col-md-3">

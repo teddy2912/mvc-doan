@@ -10,4 +10,5 @@ body{
 }
 .cart_navigation .btn button{
     text-align: left;
+    background: rgb(234, 148, 148);
 }

@@ -1,3 +1,8 @@
+<style> 
+    .dangxuat{
+        margin-left: 40px;
+    }
+</style>
 <header>
         <div class="top-header">
             <div class="container">
@@ -40,9 +45,11 @@
                     <div class="logo col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
                         <div class="people">
                             <i class="logo fa fa-users" aria-hidden="true"></i><br>
-                    
+                            <?php if($this->auth->user()) { ?>
+                            <a class="dangxuat" style="text-align: center;" href="<?php echo url_pattern('authController', 'logout'); ?>" role="button">Đăng xuất</a>
+                            <?php } else { ?>
                             <a href="<?php echo url_pattern('homeController', 'login'); ?>">Đăng nhập</a> / <a href="<?php echo url_pattern('homeController', 'registration'); ?>"> Đăng Ký</a>
-                            
+                            <?php }?>
                         </div>
 
                     </div>
@@ -61,7 +68,7 @@
                 <li><a href="<?php echo url_pattern('homeController', 'home'); ?>"><i class="fa fa-home" aria-hidden="true"></i>Trang chủ</a></li>
                 <li><a href="<?php echo url_pattern('homeController', 'introduce'); ?>">Về chúng tôi</a></li>
                 <li><a href="<?php echo url_pattern('homeController', 'product'); ?>">Sản phẩm</a></li>
-                <li><a href="<?php echo url_pattern('homeController', 'News'); ?>">Tin tức</a></li>
+                <li><a href="<?php echo url_pattern('homeController', 'news'); ?>">Tin tức</a></li>
                 <li><a href="<?php echo url_pattern('homeController', 'contact'); ?>">Liên hệ</a></li>
             </ul>
 

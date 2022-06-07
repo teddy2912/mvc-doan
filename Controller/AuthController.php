@@ -54,6 +54,7 @@ class AuthController {
 
     private function postRegisterPage(){
         $auth = new Auth();
-        $auth->register($_POST['email'], $_POST['password']);
+        $auth->register($_POST['email'], $_POST['password'], $_POST['name'], $_POST['phone'], $_POST['address']);
+        redirect(url_pattern('homeController', 'home'));
     }
 }

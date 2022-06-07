@@ -1,13 +1,16 @@
 <?php
 require_once './Model/ProductModel.php';
+require_once './Controller/Auth.php';
 
 class HomeController
 {
     private $productModel;
+    public $auth;
 
     public function __construct()
     {
         $this->productModel = new ProductModel();
+        $this->auth = new Auth();
     }
 
     public function invoke()
@@ -42,12 +45,18 @@ class HomeController
             case 'order':
                 $this->orderPage();
                 break;
-            case 'new':
-                $this->newPage();
+            case 'news':
+                $this->newsPage();
                 break;
-                case 'pay':
-                    $this->payPage();
-                    break;
+            case 'pay':
+                $this->payPage();
+                break;
+            case 'registration':
+                $this->registrationPage();
+                break;
+            case 'delete':
+                $this->deletePage();
+                break;
         }
     }
 
@@ -106,8 +115,19 @@ class HomeController
         $productList = $productModel->all();
         require_once './View/order.php';
     }
-    private function newPage()
+    private function newsPage()
     {
-        require_once './View/News.php';
+        require_once './View/news.php';
+    }
+    private function registrationPage()
+    {
+        require_once './View/registration.php';
+    }
+    private function deletePage()
+    {
+        if (!isset($_GET['id'])) die();
+        $this->categoryModel->delete($_GET['id']);
+
+        redirect(url_pattern('homeController', 'cart'));
     }
 }

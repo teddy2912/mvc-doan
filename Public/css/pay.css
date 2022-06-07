@@ -6,6 +6,11 @@ body {
     margin-top: 40px;
 }
 
+.content .thongtin input {
+    padding: 7px;
+    width: 370px;
+    margin-top: 20px;
+}
 .content .thongtin textarea {
     padding: 8px;
     width: 370px;
